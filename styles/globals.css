@@ -1,6 +1,6 @@
 @tailwind base;
 
-.directory-divide-y > li:not(:last-child):after {
+.directory-divide-y>li:not(:last-child):after {
   content: '';
   display: block;
   width: calc(100% - 24px);
